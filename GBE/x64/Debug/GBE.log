@@ -1,0 +1,10 @@
+﻿  Bus.cpp
+  Cartridge.cpp
+  CPU.cpp
+  Emulator.cpp
+  Instructions.cpp
+  main.cpp
+  PPU.cpp
+  Timer.cpp
+  Generating Code...
+  GBE.vcxproj -> C:\Users\Bryce\Desktop\GBE\x64\Debug\GBE.exe

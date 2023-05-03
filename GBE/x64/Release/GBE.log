@@ -1,0 +1,7 @@
+﻿  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Bryce\Desktop\GBE\GBE\main.c(8): warning C4716: 'SDL_main': must return a value
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GBE.vcxproj -> C:\Users\Bryce\Desktop\GBE\x64\Release\GBE.exe
